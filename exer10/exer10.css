@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+    width: 500px; /* largura da página */
+    margin: auto;
+    padding-top: 50px;
+}
+
+div {
+    margin-bottom: 30px;
+}
+
+input {
+    background-color: white;
+}
+
+#divGeral{
+    border-radius: 15px;
+    padding: 50px;
+}

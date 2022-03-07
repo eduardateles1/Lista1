@@ -1,0 +1,16 @@
+body{
+    background-color:pink;
+    width: 300px;
+    margin: auto;
+    padding-top: 50px;
+    color: black;
+}
+
+div {
+    padding-bottom: 30px;
+}
+
+#divGeral {
+    border-radius: 15px;
+    padding:20px;
+}
