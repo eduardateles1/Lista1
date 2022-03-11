@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(13, 196, 252, 0.582);
+    width: 300px;
+    margin: auto;
+    padding-top: 50px;
+    color: black;
+}
+
+div {
+    padding-bottom: 30px;
+}

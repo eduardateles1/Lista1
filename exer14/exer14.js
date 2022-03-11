@@ -7,5 +7,5 @@ function calcular() {
     let idadeSemanas = idadeAnos * 52
     let idadeDias = idadeAnos * 365
 
-    document.getElementById("resultado").innerHTML = `Idade em Anos = ${idadeAnos} "<br/>", Meses = ${idadeMeses} "<br/>", Semanas = ${idadeSemanas} "<br/>"e Dias = ${idadeDias} "<br/>" `
+    document.getElementById("resultado").innerHTML = `Idade em Anos = ${idadeAnos} " <br/> ", Meses = ${idadeMeses} "<br/> ", Semanas = ${idadeSemanas} "<br/> " e Dias = ${idadeDias} "<br/> " `
 } 

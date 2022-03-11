@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(252, 13, 252);
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+    padding-top: 50px;
+    color: black;
+}
+
+div {
+    padding-bottom: 30px;
+}
